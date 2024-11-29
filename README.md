@@ -2,6 +2,10 @@
 
 #### Dataset
 
+The dataset used in this project is available for download from the following link:
+
+[Download Dataset](https://drive.google.com/drive/folders/1uA35d2D-4HVXgK6zmN-SG21TbQabI_gh?usp=sharing)
+
 ##### Train
 
 | **Path**                                 | **Cover** | **Steg** |                  | **Path**                                 | **Cover** | **Steg** |
